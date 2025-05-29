@@ -1,4 +1,4 @@
-# Stock-Risk-Predictor-Machine-Learning
+# Strock-Risk-Predictor-Machine-Learning
 # Heart Disease Predictor
 
 This repository contains a Jupyter Notebook designed to predict heart disease using a machine learning model. The model uses a dataset of patient health metrics to classify the likelihood of heart disease.
